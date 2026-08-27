@@ -1,8 +1,8 @@
-# Learning a Size–Weight Frontier for Synthetic-Aided Inference
+# Learning a Size–Weight Frontier for Synthetic-Augmented Inference
 
 This repository contains the code for implementing the algorithms and reproducing the experiments in the following paper:
 
-Huang, Chengpiao and Wang, Kaizheng. (2026). Learning a Size–Weight Frontier for Synthetic-Aided Inference.
+Huang, Chengpiao and Wang, Kaizheng. (2026). Learning a Size–Weight Frontier for Synthetic-Augmented Inference.
 
 
 
