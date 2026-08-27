@@ -1,0 +1,15 @@
+# Data files are large and are available from the Iyengar et al. repository
+# (see the "Data source" note in README.md). They are not tracked here.
+data/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Matplotlib config directory created at runtime
+.mplconfig/
+
+# macOS
+.DS_Store
