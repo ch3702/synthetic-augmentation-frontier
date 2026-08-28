@@ -312,7 +312,7 @@ def _make_frontier_figure(proxy: str, data: dict) -> Path:
         Line2D([0], [0], color=ORACLE_COLOR, ls="-", lw=1.0,
                marker=ORACLE_MARKER, ms=4.5, markeredgewidth=1.0,
                mfc=ORACLE_COLOR, mec=ORACLE_COLOR,
-               label=r"Oracle frontier $\hat{k}^*(\lambda)$"),
+               label=r"Oracle frontier $k^*(\lambda)$"),
     ]
     fig.legend(handles=handles, loc="lower center", ncol=2, fontsize=11,
                frameon=False, bbox_to_anchor=(0.5, 0.02),
