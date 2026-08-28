@@ -117,7 +117,7 @@ Checkpoints are named `{model}_n{n}_alpha{aa}_{ci}_gamma{gg}_nmax{nmax}[_split].
 
 ```bibtex
 @article{HWa26,
-  title  = {Learning a Size--Weight Frontier for Synthetic-Aided Inference},
+  title  = {Learning a Size--Weight Frontier for Synthetic-Augmented Inference},
   author = {Huang, Chengpiao and Wang, Kaizheng},
   year   = {2026}
 }
