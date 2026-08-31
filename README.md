@@ -2,7 +2,7 @@
 
 This repository contains the code for implementing the algorithms and reproducing the experiments in the following paper:
 
-Huang, Chengpiao and Wang, Kaizheng. (2026). Learning a Size–Weight Frontier for Synthetic-Augmented Inference.
+Huang, Chengpiao and Wang, Kaizheng. (2026). Learning a Size–Weight Frontier for Synthetic-Augmented Inference. Available at arXiv: https://arxiv.org/abs/2608.28576 and SSRN: https://ssrn.com/abstract=7365498.
 
 
 
@@ -119,6 +119,7 @@ Checkpoints are named `{model}_n{n}_alpha{aa}_{ci}_gamma{gg}_nmax{nmax}[_split].
 @article{HWa26,
   title  = {Learning a Size--Weight Frontier for Synthetic-Augmented Inference},
   author = {Huang, Chengpiao and Wang, Kaizheng},
-  year   = {2026}
+  journal = {arXiv preprint arXiv:2608.28576},
+  year   = {2026},
 }
 ```
